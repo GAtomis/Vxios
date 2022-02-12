@@ -1,6 +1,6 @@
 {
   "name": "@gatomis/vxios",
-  "version": "1.0.1-beta.3",
+  "version": "1.0.1-beta.31",
   "description": "vx请求封装, by ^Gavin^",
   "main": "index.js",
   "scripts": {
