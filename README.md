@@ -2,7 +2,7 @@
  * @Description: 请输入....
  * @Author: Gavin
  * @Date: 2022-02-09 22:35:52
- * @LastEditTime: 2022-03-03 17:54:26
+ * @LastEditTime: 2022-03-04 12:59:25
  * @LastEditors: Gavin
 -->
 # Vxios
@@ -44,7 +44,7 @@ yarn add @gatomis/vxios -s
 const vxios = require('@gatomis/vxios')
 ```
 ### bug日志
-1.uploadFileApi失败:heavy_check_mark: 感谢[@HuangYaobin]提的Issues(https://github.com/HuangYaobin)
+1.uploadFileApi失败:heavy_check_mark: 感谢[@HuangYaobin](https://github.com/HuangYaobin)提的Issues
 
 ### 基于原型
 本项目原型基于[微信开发手册](https://developers.weixin.qq.com/miniprogram/dev/api/network/request/wx.request.html)
