@@ -14,7 +14,7 @@
 ## 掘金
 [文章地址](https://juejin.cn/post/7064438079355879455)
 ## 关于Typecript 
-ts的支持目前最新版本[Tacos](https://github.com/GAtomis/tacos,本项目已不在维护。
+ts的支持目前最新版本[Tacos](https://github.com/GAtomis/tacos),本项目已不在维护。
 
 ## 关于Vxios
 设计这个mini库的初衷是为了统一管理微信的所有请求方法,目的是将所有微信与网络的请求统一Promise化，并且能与web端Axios进行相互迁移(仍在完善中),
